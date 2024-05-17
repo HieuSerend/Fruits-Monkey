@@ -44,6 +44,8 @@
 		</Linker>
 		<Unit filename="common.cpp" />
 		<Unit filename="common.h" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="utils.cpp" />
 		<Unit filename="utils.h" />
